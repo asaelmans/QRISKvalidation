@@ -6,7 +6,7 @@
 - Analytics use case(s): **-**
 - Study type: **-**
 - Tags: **-**
-- Study lead: **-**
+- Study lead: **Alexander Saelmans**
 - Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
 - Study start date: **-**
 - Study end date: **-**
